@@ -1,16 +1,18 @@
 ---
 key: links
 data:
-  - label: My Company 💬
+  - label: Mission Focus
     url: https://www.missionfocus.com
-  - label: My Institute 📸
+  - label: Institute for Modern Intelligence
     url: https://www.imintel.org
-  - label: My Personal Site 🎨
+  - label: My Website
     url: https://www.eick.com
-  - label: See what we're coding on Github 🧑‍💻
+  - label: Github
     url: https://github.com/andreweick
-  - label: My Twitter 🧑‍💻
+  - label: Twitter
     url: https://twitter.com/andreweick
-  - label: Libby's Site 👍
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/andreweick
+  - label: Libby's Site 👧🏼
     url: https://www.libbyeick.com
 ---
